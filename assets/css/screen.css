@@ -2790,6 +2790,12 @@ Usage (In Ghost editor):
     }
 }
 
+.site-footer-cnzz {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
 
 /* 12. Dark Mode
 /* ---------------------------------------------------------- */
